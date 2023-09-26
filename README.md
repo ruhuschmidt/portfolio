@@ -21,24 +21,6 @@ Feel free to use this portfolio website as a template for your own online portfo
 3. Modify the styling and layout to match your personal preferences.
 4. Host the website on your preferred web hosting service or platform.
 
-## Installation
-If you want to run the website locally for testing or development purposes, follow these steps:
-
-1. Clone the repository to your local machine:
-
-2. Open the project folder and launch a local development server. You can use tools like [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for Visual Studio Code or any other server of your choice.
-
-3. Access the website in your web browser at `http://localhost:yourport`.
-
-## Customization
-To personalize the website with your information and images:
-
-1. Edit the `index.html` file to update the content and structure.
-2. Replace the placeholder images in the `img` folder with your own project screenshots and profile picture.
-3. Adjust the styles in the `css` folder to match your desired color scheme and layout.
-
-Feel free to explore the code and customize it to your liking. You can also add additional sections or features as needed.
-
 ## Technologies Used
 - HTML
 - CSS
